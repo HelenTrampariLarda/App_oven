@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ekroy">#e8e2cd</color>
+    <color name="ok_color">#FFFFFFFF</color><!--f1bd5e-->
+    <color name="light_gkri">#cccccc</color>
+    <color name="pop_up_background">#bababa</color>
+    <color name="portokali">#dea245</color>
+    <color name="kokkino">#c02f18</color>
+    <color name="inside_oven">#f8fafb</color>
+    <color name="kokkino_">#e3381d</color>
+    <color name="prasino">#26a04a</color>
+
+</resources>

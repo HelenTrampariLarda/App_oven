@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="ekroy">#e8e2cd</color>
+    <color name="inside_oven">#f8fafb</color>
+    <color name="kokkino">#c02f18</color>
+    <color name="kokkino_">#e3381d</color>
+    <color name="light_gkri">#cccccc</color>
+    <color name="ok_color">#FFFFFFFF</color>
+    <color name="pop_up_background">#bababa</color>
+    <color name="portokali">#dea245</color>
+    <color name="prasino">#26a04a</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Wra">ΩΡΑ</string>
+    <string name="app_name">Oven_App</string>
+    <string name="but_estias">ΕΣΤΙΑΣ</string>
+    <string name="but_fournoy">ΦΟΥΡΝΟΥ</string>
+    <string name="but_wras">ΡΥΘΜΙΣΗ ΩΡΑΣ</string>
+    <string name="close__">ΚΛΕΙΣΙΜΟ</string>
+    <string name="deyteroleptaa">Δευτερόλεπτα</string>
+    <string name="empty"/>
+    <string name="esties">1.Επιλέξτε εστία :</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="leitourgies">1.Επιλέξτε λειτουργία :</string>
+    <string name="leptaa">Λεπτά</string>
+    <string name="ok">ΕΝΤΑΞΕΙ</string>
+    <string name="ok_popup">ΟΚ</string>
+    <string name="poptimer">Χρονόμετρα : \n \t Υπάρχουν ξεχαριστά χρονόμετρα για τις εστίες και τον φούρνο που ρυθμίζονται πατώντας τα παρακάτω κουμπιά</string>
+    <string name="start__">ΕΝΑΡΞΗ</string>
+    <string name="them_num">(0-9)</string>
+    <string name="them_num_fournou">(0-250)</string>
+    <string name="thermokrasia">2.Επιλέξτε Θερμοκρασία : </string>
+    <string name="timer">Χρονόμετρο :</string>
+    <string name="timer__">Ρυθμίστε το χρονόμετρό σας για τις εστίες</string>
+    <string name="timer_def">00:00:00</string>
+    <string name="timer_def_f">00:00:00</string>
+    <string name="timer_done_mess">Το χρονόμετρο τελείωσε!</string>
+    <string name="wraa">Ώρες</string>
+    <style name="Theme.Oven_App" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.Oven_App2" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/ekroy</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:backgroundTint">@color/ekroy</item>
+    </style>
+</resources>

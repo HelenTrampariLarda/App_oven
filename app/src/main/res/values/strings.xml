@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Oven_App</string>
+    <string name="Wra">ΩΡΑ</string>
+    <string name="timer">Χρονόμετρο :</string>
+    <string name="but_estias">ΕΣΤΙΑΣ</string>
+    <string name="but_fournoy">ΦΟΥΡΝΟΥ</string>
+    <string name="timer_def">00:00:00</string>
+    <string name="timer_done_mess">Το χρονόμετρο τελείωσε!</string>
+    <string name="ok">ΕΝΤΑΞΕΙ</string>
+    <string name="timer_def_f">00:00:00</string>
+    <string name="but_wras">ΡΥΘΜΙΣΗ ΩΡΑΣ</string>
+    <string name="esties">1.Επιλέξτε εστία :</string>
+    <string name="leitourgies">1.Επιλέξτε λειτουργία :</string>
+    <string name="thermokrasia">2.Επιλέξτε Θερμοκρασία : </string>
+    <string name="them_num">(0-9)</string>
+    <string name="them_num_fournou">(0-250)</string>
+    <string name="empty"></string>
+    <string name="ok_popup">ΟΚ</string>
+    <string name="poptimer">Χρονόμετρα : \n \t Υπάρχουν ξεχαριστά χρονόμετρα για τις εστίες και τον φούρνο που ρυθμίζονται πατώντας τα παρακάτω κουμπιά</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="timer__">Ρυθμίστε το χρονόμετρό σας για τις εστίες</string>
+    <string name="wraa">Ώρες</string>
+    <string name="leptaa">Λεπτά</string>
+    <string name="deyteroleptaa">Δευτερόλεπτα</string>
+    <string name="start__">ΕΝΑΡΞΗ</string>
+    <string name="close__">ΚΛΕΙΣΙΜΟ</string>
+
+
+</resources>
